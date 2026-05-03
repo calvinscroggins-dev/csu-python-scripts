@@ -1,3 +1,5 @@
+# This class represents an item in a shopping cart with a name, price, and quantity.
+# It calculates and prints the total cost of the item.
 class ItemToPurchase:
     def __init__(self):
         self.item_name = "none"
